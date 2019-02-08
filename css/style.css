@@ -1,0 +1,21 @@
+.background-header{
+    width: 100%;
+    height: 100px;
+    background: #337ab7;
+    color: white;
+    margin-bottom: 50px;
+}
+small{
+    color:white!important;
+    float: right;
+    font-size: 14px!important;    
+    margin-top: 80px;
+    margin-right: -395px;
+}
+h2 {
+    margin-top: 0px!important;
+    margin: 0 auto;
+    text-transform: uppercase;
+    width: 500px;
+    line-height: 110px;
+}
